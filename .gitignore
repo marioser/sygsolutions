@@ -1,0 +1,11 @@
+# Folders
+.idea
+.vscode/
+node_modules/
+dist/
+build/
+
+# Files
+.DS_Store
+*.log
+*.env
